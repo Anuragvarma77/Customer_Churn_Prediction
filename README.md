@@ -39,9 +39,6 @@ The Decision Tree model was chosen for its interpretability and ability to handl
 - Fine-tuning hyperparameters such as maximum depth and minimum samples split.
 - Evaluating the model using metrics like accuracy, precision, recall, and F1-score.
 
-## Results
-- **Accuracy**: 80
-
 The Decision Tree model effectively identified churn patterns and provided actionable insights.
 
 ## How to Use
